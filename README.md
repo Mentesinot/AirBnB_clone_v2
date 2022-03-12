@@ -122,4 +122,4 @@ ADD HERE
 
 Abrham Bunaro [Github Account](https://github.com/Abrish-b)
 
-Yared Yilma  [Github Account](https://github.com/yaredow/)
+Mentesinot Tegegn  [Github Account](https://github.com/mentesinot)
